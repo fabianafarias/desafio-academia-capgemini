@@ -4,14 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Questao1 {
-
-    /*
-    # Questão 01
-    Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços.
-    A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
-     */
-
+public class DesenhandoUmaEscada {
     public static void main(String[] args) {
 
         Scanner n = new Scanner(System.in);
@@ -27,7 +20,5 @@ public class Questao1 {
         for(String b: base) {
             System.out.println(b);
         }
-
     }
-
 }

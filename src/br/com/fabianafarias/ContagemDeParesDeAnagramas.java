@@ -1,4 +1,4 @@
-package com.company;
+package br.com.fabianafarias;
 
 import java.util.Arrays;
 import java.util.HashMap;

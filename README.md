@@ -6,15 +6,14 @@
 - SO: Xubuntu - Ubuntu 20.04.3 LTS
 - VCS: Git 2.25.1
 
-**[ X ] - QUESTÃO 01 -** Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços.
+**[ X ] - <a href="https://github.com/fabianafarias/desafio-academia-capgemini/blob/master/src/br/com/fabianafarias/DesenhandoUmaEscada.java">QUESTÃO 01</a> -** Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços.
 A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
 
 **Execução:**
 - Rodar o arquivo DesenhandoUmaEscada.java.
 - Digitar um número, como solicitado.
 
-
-**[ X ] - QUESTÃO 02 -** Débora se inscreveu em uma rede social para se manter em contato com seus amigos.
+**[ X ] - <a href="https://github.com/fabianafarias/desafio-academia-capgemini/blob/master/src/br/com/fabianafarias/ValidacaoDeSenha.java">QUESTÃO 02</a> -** Débora se inscreveu em uma rede social para se manter em contato com seus amigos.
 A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte.
 O site considera uma senha forte quando ela satisfaz os seguintes critérios:
 
@@ -33,7 +32,8 @@ Para ajudar Débora, construa um algoritmo que informe qual é o número mínimo
 - O programa fará a validação e exibirá uma mensagem de acordo com a senha inserida: senha forte ou fraca.
 
 
-**[ x ] - QUESTÃO 03 -** Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra.
+**[ x ] - <a href="https://github.com/fabianafarias/desafio-academia-capgemini/blob/master/src/br/com/fabianafarias/ContagemDeParesDeAnagramas.java
+">QUESTÃO 03</a> -** Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra.
 Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
 
 **Execução:**
